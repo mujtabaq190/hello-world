@@ -20,8 +20,6 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <br>
-
 
   
 
